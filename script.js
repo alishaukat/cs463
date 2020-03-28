@@ -1,26 +1,67 @@
-var x = 10;
-var y = 20;
-var big;
+// var x = {
+//     "a":10,
+//     "b":20,
+//     "c":30,
+// };
 
-if(x > y){
-    big = x;
-}else{
-    big = y;
-}
+// for(var i in x){
+//     console.log(x[i]);
+// }
 
-big = x > y ? x : y;
+// for(var i=0; i < 3; i++){
+//     console.log(x[i]);
+// }
 
-// condition?true:false;
+// var a = 5;
+// var i = 0;
 
-console.log(big);
+// while(i < a){
+//     console.log(i);
+//     i++;
+// }
 
-var x = 15;
-x += 10;
+// for(var i=0; i < a; i++){
+//     if(i == 3){
+//         continue;
+//         // break;
+//     }
+//     console.log(i);
+// }
 
-if(x > 20){
-    console.log("x is greater than 20");
-}else if(x > 10){
-    console.log("x is between 10 and 20");
-}else{
-    console.log("x is less than 20");
-}
+// functions
+// function message(msg){
+//     console.log(msg);
+// }
+
+// function add(x, y){
+//     return x+y;
+// }
+
+// z = add(5,10);
+// message(z);
+
+// var age = 25;
+
+// x = function displayMessage(fun){
+//     fun();
+// }
+
+// displayMessage(x);
+
+// displayMessage(function(){
+//     console.log("Hello, from anonymous function");
+// });
+
+// var myObj = {
+//     "age":10,
+//     "name": "Ali",
+//     "message": function(){
+//         console.log("Anonymous function inside and object");
+//     }
+// }
+
+// myObj.message();
+
+// window.setTimeout(function(){
+//     console.log("Hello, from delayed message");    
+// }, 5000);
