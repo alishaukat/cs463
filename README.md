@@ -1,4 +1,4 @@
-1 JavaScript Introduction
+2 JavaScript Syntax Variables Operators Conditions
 
 Video Lecture of this branch: https://youtu.be/Q9_xDVoZvAo
 
