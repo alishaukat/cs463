@@ -1,6 +1,6 @@
 1 JavaScript Introduction
 
-Video Lecture of this branch: https://youtu.be/w1_t_m73ekU
+Video Lecture of this branch: https://youtu.be/Q9_xDVoZvAo
 
 Full Course Playlist: https://www.youtube.com/playlist?list=PLWx1kcKaENhsHiUb5zsQkb46X51SZjnII
 
