@@ -1,6 +1,6 @@
 2 JavaScript Syntax Variables Operators Conditions
 
-Video Lecture of this branch: https://youtu.be/Q9_xDVoZvAo
+Video Lecture of this branch: https://youtu.be/DlgaAMANFSA
 
 Full Course Playlist: https://www.youtube.com/playlist?list=PLWx1kcKaENhsHiUb5zsQkb46X51SZjnII
 
