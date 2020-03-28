@@ -1,6 +1,6 @@
-2 JavaScript Syntax Variables Operators Conditions
+3 JavaScript Syntax Loops Functions
 
-Video Lecture of this branch: https://youtu.be/DlgaAMANFSA
+Video Lecture of this branch: https://youtu.be/9PT0Jg_2xYg
 
 Full Course Playlist: https://www.youtube.com/playlist?list=PLWx1kcKaENhsHiUb5zsQkb46X51SZjnII
 
